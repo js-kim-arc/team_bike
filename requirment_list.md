@@ -1,7 +1,7 @@
 ### ✅ **Requirement List – 자전거 공유 서비스스 기능 정리**
 
 |확인용 개인코드|36987|
-|개인 github 주소|https://github.com/js-kim-arc|
+|개인 github 주소|https://github.com/js-kim-arc/team_bike|
 
 | No. | 요구사항 | 관련 Use Case |
 | --- | --- | --- |
