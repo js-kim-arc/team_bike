@@ -1,0 +1,25 @@
+[junseong kim] Mon May 19 20:35:02 2025 +0900 [추가 수정] 4515096
+[junseong kim] Mon May 19 20:34:02 2025 +0900 [개인 코드 추가] 8dcefeb
+[junseong kim] Mon May 19 20:28:47 2025 +0900 feat: 수정 내용에 대한 메시지 ef79d9b
+[junseong kim] Mon May 19 20:28:18 2025 +0900 Merge branch 'main' of https://github.com/js-kim-arc/team_bike into junseong 0044c24
+[junseong kim] Mon May 19 20:24:26 2025 +0900 [analysis class 다이어그램] 다이어그램 수정 진행하였습니다! 250e109
+[junseong kim] Mon May 19 20:24:01 2025 +0900 [communication di] 커뮤니케이션 다이어그램 수정 630b5aa
+[junseong kim] Mon May 19 20:23:39 2025 +0900 [유즈케이스]유즈케이스 다이어그램 수정 1a4ea50
+[junseong kim] Mon May 19 20:22:38 2025 +0900 [description] 수정 진행하였습니다! 4d73f68
+[junseong kim] Mon May 19 20:22:18 2025 +0900 [requirment list] 수정 진행하였습니다! d081f76
+[junseong kim] Sun May 18 15:45:08 2025 +0900 Merge pull request #5 from js-kim-arc/junseong d78c79c
+[junseong kim] Sun May 18 15:44:37 2025 +0900 [communication_diagram] pdf로 총 합본 남깁니다! 03def9a
+[junseong kim] Sun May 18 15:34:33 2025 +0900 Merge pull request #4 from js-kim-arc/junseong b729313
+[junseong kim] Sun May 18 15:33:50 2025 +0900 [usecase-description] 디스크립션 종료 f248045
+[junseong kim] Sun May 18 15:33:12 2025 +0900 [usecase-description] 로그아웃 , 자전거 등록 description 등록 f131bcf
+[junseong kim] Sun May 18 15:31:41 2025 +0900 [usecase-description] 로그인, 회원가입 디스크립션 작성! 6c7058e
+[junseong kim] Sun May 18 15:30:43 2025 +0900 [usecase-description] 디스크립션 1차 커밋 진행하였습니다! d494c0e
+[junseong kim] Sun May 18 15:24:53 2025 +0900 Merge pull request #3 from js-kim-arc/junseong c3bc1b0
+[junseong kim] Sun May 18 15:24:03 2025 +0900 [requirmentList] 리스트 수정을 진행하였습니다! eaf9092
+[junseong kim] Sun May 18 15:22:38 2025 +0900 [requirmentList] 2차 저장용 커밋 남기겠습니다! 27bfa43
+[junseong kim] Sun May 18 15:21:10 2025 +0900 [requirement_list] 유즈케이스 1차 커밋 남깁니다! da4d293
+[junseong kim] Sun May 18 15:20:16 2025 +0900 Merge pull request #2 from js-kim-arc/junseong 203aa6e
+[junseong kim] Sun May 18 15:19:29 2025 +0900 [requirment_list] 확인용 1차 커밋 보내겠습니다 1ccfef0
+[junseong kim] Sun May 18 15:16:06 2025 +0900 Merge pull request #1 from js-kim-arc/junseong 6f17833
+[junseong kim] Sun May 18 15:15:20 2025 +0900 [유즈케이스 다이어그램] 유즈케이스 다이어그램 커밋 올리겠습니다! edcfb90
+[junseong kim] Sun May 18 15:10:08 2025 +0900 Initial commit ced2414
